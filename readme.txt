@@ -1,9 +1,9 @@
 === Dashboard Instant Finder ===
-Contributors: wpchef
-Donate link: http://thewpchef.com/donations
+Contributors: hitwp
+Donate link: https://hitwp.com
 Tags: dashboard, editor, utility, search, admin
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.9.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
